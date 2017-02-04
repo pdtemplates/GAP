@@ -15,7 +15,7 @@
 		.pd_promo-email .title {
 			font-size: 1.8em;
 			font-weight: 600;
-			line-height: 1em;
+			line-height: .9em;
 			color: #8fafd9;
 		}
 		.pd_promo-email .subtitle {
@@ -34,7 +34,7 @@
 			color: #fff;
 			font-size: 1.8em;
 			font-weight: 600;
-			line-height:.9;
+			line-height:0.8;
 		}
 		.pd_promo-email .cta {
 			font-weight: 600;
@@ -60,9 +60,10 @@
 	</style>
 	<div class="wrapper">
 		<div class="title">Abonnez-vous à notre liste de courriel</div>
-		<div class="subtitle">Soyez les premiers à recevoir les informations sur les nouveautés, économies en exclusivité et plus.</div>
+		<div class="subtitle">Recevoir les informations sur les nouveautés, économies en exclusivité et plus.</div>
 		<div class="head1">De plus, obtenez un rabais de</div>
 		<div class="head2">30 % sur les modèles à prix courant</div>
 		<div class="cta"><a href="/profile/info.do?cid=1000698">S'INSCRIRE MAINTENANT</a></div>
 	</div>
 </div>
+<!-- <span class="pd_promo-email-legal">Offre réservée personnes s'inscrivant pour la<br>première fois.</span> //-->
