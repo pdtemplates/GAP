@@ -1,0 +1,52 @@
+<style>
+	#plus_up {
+		width:100%;
+		height:100%;
+		background-color:#00143e;
+		color:#FFFFFF;
+		font-family: "Helvetica Neue", Helvetica,Arial,sans-serif;
+		text-align:center;
+		position:relative;
+	}
+	#plus_up-inner-wrapper { 
+		width:98%;
+		position:absolute;
+		top:50%;
+		left:50%;
+		transform:translate(-50%,-50%);
+		-webkit-transform:translate(-50%,-50%);
+		-moz-transform:translate(-50%,-50%);
+	}
+	#plus_up-discount-details, 
+	#plus_up-percent-off, 
+	#plus_up-discount-type {		
+		color:#FFFFFF;
+		font-size:3em;
+		font-weight: 700;
+		line-height:.9;
+		text-transform: uppercase;
+		letter-spacing: 0px;
+	}
+	#plus_up-inclusion {
+		font-size: 1.2em;
+		color: #fff;
+		line-height:1;
+		padding-top: 15px;
+	}
+	#plus_up-exclusion {
+		font-size: 1em;
+		color: #fff;
+		line-height:1;
+		padding-top: 15px;
+		margin-bottom: -5px;
+	}	
+</style>
+<div id="plus_up">
+	<div id="plus_up-inner-wrapper">
+		<div id="plus_up-discount-details">EXTRA</div>
+		<div id="plus_up-percent-off">10% OFF</div>
+		<div id="plus_up-discount-type">EVERYTHING</div>
+		<div id="plus_up-inclusion">Online only. Code <b>EXTRA</b></div>
+		<div id="plus_up-exclusion">Not Valid on GiftCards. Combinable with today's deal.</div>
+	</div>
+</div>
