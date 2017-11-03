@@ -30,7 +30,7 @@
 	}
 	#promodrawer-inclusion {
 		font-size: .9em;
-		color: #C39E4A;
+		color: #b18f43;
 		line-height:1;
 		padding-top: 15px;
 	}
