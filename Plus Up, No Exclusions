@@ -2,7 +2,7 @@
 	#promodrawer {
 		width:100%;
 		height:100%;
-		background-color:#00143e;
+		background-color:#000;
 		color:#FFFFFF;
 		font-family: "Helvetica Neue", Helvetica,Arial,sans-serif;
 		text-align:center;
@@ -29,7 +29,7 @@
 	}
 	#promodrawer-inclusion {
 		font-size: 1.2em;
-		color: #fff;
+		color: #C39E4A;
 		line-height:1;
 		padding-top: 15px;
 	}
@@ -46,7 +46,7 @@
 		<div id="promodrawer-discount-details">EXTRA</div>
 		<div id="promodrawer-percent-off">10% OFF</div>
 		<div id="promodrawer-discount-type">EVERYTHING</div>
-		<div id="promodrawer-inclusion">Online only. Code <b>EXTRA</b></div>
+		<div id="promodrawer-inclusion">Online only. Code <b>MORE</b></div>
 		<div id="promodrawer-exclusion">Not Valid on GiftCards. Combinable with today's deal.</div>
 	</div>
 </div>
