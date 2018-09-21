@@ -34,7 +34,7 @@
         padding-bottom: 0.5em;
     }
     .promodrawer_cont1 .adjFontSize {
-        font-size:30px;
+        font-size:32px;
         line-height:1;
         text-transform: uppercase;
     }
