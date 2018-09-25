@@ -21,12 +21,6 @@
         padding-bottom: 1em;
         font-weight: 400;
     }
-    .promodrawer_cont4 .discountCode {
-        font-size:1.3em;
-        line-height: 1;
-        padding-top: 0.5em;
-        letter-spacing: 0.4px;
-    }
     .promodrawer_cont4 .discountHeader {
         font-size:1.3em;
         line-height: 1;
@@ -37,6 +31,12 @@
         line-height:1;
         text-transform: uppercase;
     } 
+    .promodrawer_cont4 .discountCode {
+        font-size:1.3em;
+        line-height: 1;
+        padding-top: 0.5em;
+        letter-spacing: 0.4px;
+    }
     .promodrawer_cont4 .legalLine {
         font-size:1.3em;
         line-height: 1;
