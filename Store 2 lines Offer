@@ -32,13 +32,13 @@
         line-height: 1;
         padding-bottom: 0.5em;
     }
-    .promodrawer_cont1 .adjFontSize {
+    .promodrawer_cont1 .mainMessage {
         font-size:32px;
         line-height:1;
         text-transform: uppercase;
     }
 @media (max-width: 767px) {
-     .promodrawer_cont1 .adjFontSize {
+     .promodrawer_cont1 .mainMessage {
          font-size:2.5em;
     }
 }
@@ -47,9 +47,9 @@
 <div class="promodrawer_cont1 sds_tx_left">
     <div class="promodrawer_cont1_wrapper"> 
         <div class="discountHeader">IN STORES ONLY</div>
-        <div class="adjFontSize">EXTRA 15% OFF </div>
-        <div class="adjFontSize">ALL MARK DOWNS</div>
-        <div class="discountCode">Discount taken at register. </div>
+        <div class="mainMessage">EXTRA 15% OFF </div>
+        <div class="mainMessage">ALL MARK DOWNS</div>
+        <div class="discountCode">Discount taken at register.</div>
     </div>
 </div>
 
