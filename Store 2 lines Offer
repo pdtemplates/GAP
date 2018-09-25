@@ -24,7 +24,7 @@
     .promodrawer_cont1 .discountCode {
         font-size:1.3em;
         line-height: 1;
-        padding-top: 0.5em;
+        padding-top: 0.7em;
         letter-spacing: 0.4px;
     }
     .promodrawer_cont1 .discountHeader {
