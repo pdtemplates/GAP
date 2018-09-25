@@ -34,13 +34,13 @@
     .promodrawer_cont3 .discountCode {
         font-size:1.3em;
         line-height: 1;
-        padding-top: 0.7em;
+        padding-top: 0.5em;
         letter-spacing: 0.4px;
     }
      .promodrawer_cont3 .subCopy {
         font-size:1.6em;
         line-height:1;
-        padding-top: 0.5em;
+        padding-top: 0.7em;
     }
 @media (max-width: 767px) {
      .promodrawer_cont3 .mainMessage {
